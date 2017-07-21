@@ -5,10 +5,10 @@ var audioSt = '<div class="js-audio"><p>Play, sit back, relax! The audio will lo
 var audioEnd = '" type="audio/mpeg">Your browser does not support the audio element.</audio><div/>';
 
 // feed in the files
-var audioOne = audioSt + 'audio/viv.mp3' + audioEnd;
-var audioTwo = audioSt + 'audio/rain.wav' + audioEnd;
-var audioThree = audioSt + 'audio/funny.wav' + audioEnd;
-var audioFour = audioSt + 'audio/frogger.mp3' + audioEnd;
+var audioOne = audioSt + 'audio/forest.mp3' + audioEnd;
+var audioTwo = audioSt + 'audio/library.mp3' + audioEnd;
+var audioThree = audioSt + 'audio/munch.mp3' + audioEnd;
+var audioFour = audioSt + 'audio/squirrel.mp3' + audioEnd;
 
 function checkHash () {
 	//get the hash
